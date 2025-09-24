@@ -1,4 +1,4 @@
-# Ultimate Product Requirements Document (PRD) Template
+# Paradox Product Requirement Document (PRD) Framework Guideline
 ## Comprehensive Guide with Structured Framework
 
 **Document Purpose**: This Product Requirements Document (PRD) serves as the definitive source of truth for all stakeholders involved in the product development lifecycle. It bridges the gap between business vision and technical implementation, ensuring all parties share a common understanding of what will be built, why it matters, and how success will be measured.
